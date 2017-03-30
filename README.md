@@ -5,7 +5,7 @@ gtasker
 
 ![GTasker Screenshot](./screenshots/gtasker-screenshot.png)
 
-It's great, and still works as of March 2017 in both Chrome 57 and Safari 10.1 on MacOS. I didn't create it, and the site and html file had no copyright, attribution or license.
+It's great, and works as of March 2017 in both Chrome 57 and Safari 10.1 on MacOS. I didn't create it, and the site and html file had no copyright, attribution or license.
 
 *Update: Someone with a username *cmikec* may have created this (see this post on [Hacker News](https://news.ycombinator.com/item?id=2278860)).*
 
