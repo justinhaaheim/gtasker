@@ -14,5 +14,6 @@ Read my two posts about it:
 * [Fixing gtasker](http://justinh.org/2013/01/26/fixing-gtasker/)
 
 Cheers!
--Justin
+
+-Justin  
 i o {at} justin h (dot) org
