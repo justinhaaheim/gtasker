@@ -57,7 +57,7 @@
                         var name = "f" + i + "_" + j;
                         var list_id = cookie_get(name);
                         if (list_id == null) list_id = '';
-                        html += '<td style="height:' + (i == 0 ? rowHeight + rowOff : rowHeight) + '%;background-color:#fff;"><iframe frameborder=0 style="position:relative;width:100%;height:100%" name="' + name + '" src="https://mail.google.com/tasks/ig?up_CurrentListId=' + list_id + '&parent=' + escape(window.location) + '&libs=iHKb-4mKuMY/lib/librpc.js,kl-vl2mCz6w/lib/libcore.js,a5j4V1JuNVE/lib/libsetprefs.js"></iframe></td>';
+                        html += '<td style="height:' + (i == 0 ? rowHeight + rowOff : rowHeight) + '%;background-color:#fff;"><iframe frameborder=0 style="position:relative;width:100%;height:100%" name="' + name + '" src="https://mail.google.com/tasks/ig?up_CurrentListId=' + list_id + '"></iframe></td>';
                     }
                     html += "</tr>";
                 }
