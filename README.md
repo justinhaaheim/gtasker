@@ -5,7 +5,13 @@ gtasker
 
 ![GTasker Screenshot](./screenshots/gtasker-screenshot.png)
 
-It's great, and works as of March 2017 in both Chrome 57 and Safari 10.1 on MacOS. I didn't create it, and the site and html file had no copyright, attribution or license.
+**gtasker** works as of March 2017 in both Chrome 57 and Safari 10.1 on MacOS.
+
+## Installation
+...
+
+## Credit / History
+I'm glad to serve as a steward of **gtasker**, though I didn't originally create it, and the site and html file had no copyright, author/attribution or license.
 
 *Update: Someone with a username *cmikec* may have created this (see this post on [Hacker News](https://news.ycombinator.com/item?id=2278860)).*
 
@@ -17,7 +23,7 @@ Read my two posts about it:
 * [gtasker – reposting a great Google Tasks tool](http://justinh.org/2012/03/26/gtasker-reposting-a-great-google-tasks-tool/)
 * [Fixing gtasker](http://justinh.org/2013/01/26/fixing-gtasker/)
 
-
+## Next Steps
 Next steps for anyone that would like to fork this:
 * Remove the extraneous Wayback Machine code still present.
 * Fix the occasional error where the Google Tasks interface renders about 15px too tall at first, but fixes itself upon screen resize.
