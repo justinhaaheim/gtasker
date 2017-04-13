@@ -13,7 +13,7 @@ gtasker
 3. Enjoy!
 
 ## Issues and Next Steps
-The primary issue with gtasker as it is currently designed is that Google returns the HTTP Header `X-Frame-Options` with the Google Tasks page that prevents your task lists from being loaded in an HTML frame/iframe. Here is the full Google Chrome error:
+The primary issue with gtasker as it is currently designed is that Google returns the HTTP Header `X-Frame-Options` (more on that [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options)) with the Google Tasks page that prevents your task lists from being loaded in an HTML frame/iframe. Here is the full Google Chrome error:
 
 ```
 Refused to display 'https://mail.google.com/tasks/ig?up_CurrentListId=' in a frame because it set 'X-Frame-Options' to 'sameorigin'.
